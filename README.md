@@ -1,6 +1,6 @@
 # PoolMonitor_Particle
 
-Reused my previous code from https://github.com/mv740/PoolMonitor but on a particule board
+Reused my previous code from https://github.com/mv740/PoolMonitor but on a [particle board](https://store.particle.io/?product=particle-photon)
 
 ##important
 include these two library in your app 
