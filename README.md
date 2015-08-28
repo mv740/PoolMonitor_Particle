@@ -12,3 +12,22 @@ include these two library in your app
 - ouput the value on a 1.8 ST7335 LCD
 - publish the value on the particule cloud
   - you can fetch this value using get request :   [GET DOCUMENTATION ](https://docs.particle.io/reference/firmware/photon/#spark-variable-)
+
+## Connections  
+| TFT LCD      | Particle  |
+|:------------:|:---------:|
+| VCC          |   3.3V    |
+| GND          |   GND     |
+| SCL          |   A3      |
+| SDA          |   A5      |
+| PS/DC        |   D6       |
+| RES          |   D2       |
+| CS           |   A3      |
+
+| BS18B20     | Ardruino  |
+|:----------:|:---------:|
+| Red        | 3.3V      |
+| Black      | GND       |
+| White      | D0         |
+
+**4.7K resistor between white and red**
