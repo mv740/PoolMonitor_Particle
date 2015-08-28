@@ -1,4 +1,4 @@
-# PoolMonitor_Particle
+# TemperatureMonitor
 
 Reused my previous code from https://github.com/mv740/PoolMonitor but on a [particle board](https://store.particle.io/?product=particle-photon)
 
